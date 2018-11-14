@@ -32,6 +32,8 @@ Vulnerability #1: __________________
 
 
 Vulnerability #2: __________________
+![](giphy[2].gif)
+
 
 ## Red
 
