@@ -33,7 +33,6 @@ Vulnerability #2: __________________
 
 Vulnerability #1: __________________
 
-<iframe src="https://giphy.com/embed/3l5faHmDlLT1bS59CD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3l5faHmDlLT1bS59CD">via GIPHY</a></p>
 
 Vulnerability #2: __________________
 
