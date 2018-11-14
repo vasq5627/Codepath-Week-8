@@ -23,7 +23,7 @@ Vulnerability #1:____SQL Injection______
 ![](giphy[3].gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: ___Session Hijacking/Fixation___
 
 
 
@@ -31,12 +31,12 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: ___Username Enumeration___
 
 ![](giphy[4].gif)
 
 
-Vulnerability #2: __________________
+Vulnerability #2: __Cross-Site Scripting (XSS)___
 
 ![](giphy[2].gif)
 
