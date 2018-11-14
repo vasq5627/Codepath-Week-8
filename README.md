@@ -17,7 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: 
 
 Vulnerability #2: __________________
 
@@ -32,6 +32,7 @@ Vulnerability #2: __________________
 ## Red
 
 Vulnerability #1: __________________
+<iframe src="https://giphy.com/embed/1qdgf90BRveDDaNSxb" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1qdgf90BRveDDaNSxb">via GIPHY</a></p>
 
 Vulnerability #2: __________________
 
