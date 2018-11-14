@@ -49,6 +49,8 @@ Vulnerability #1: __Insecure Direct Object Reference(IDOR)__
 
 Vulnerability #2: __________________
 
+![](giphy[1].gif)
+
 
 ## Notes
 
