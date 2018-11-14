@@ -19,25 +19,32 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1:____SQL Injection______ 
 
+
 ![](giphy[3].gif)
 
 
 Vulnerability #2: __________________
 
 
+
+![](giphy[6].gif)
+
 ## Green
 
 Vulnerability #1: __________________
+
 ![](giphy[4].gif)
 
 
 Vulnerability #2: __________________
+
 ![](giphy[2].gif)
 
 
 ## Red
 
 Vulnerability #1: __Insecure Direct Object Reference(IDOR)__
+
 ![](giphy[5].gif)
 
 Vulnerability #2: __________________
