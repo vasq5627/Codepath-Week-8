@@ -27,12 +27,11 @@ Vulnerability #2: __________________
 Vulnerability #1: __________________
 
 Vulnerability #2: __________________
-giphy[5].gif
 
 ## Red
 
 Vulnerability #1: __________________
-
+![](giphy[5].gif)
 
 Vulnerability #2: __________________
 
